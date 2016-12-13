@@ -6,6 +6,7 @@ public class Main {
 		Human human = new Human(18, "Ivan");
 		human.name = "Ivan";
 		human.run();
+
 		
 		Hunter hunter = new Hunter(20, " Vova");
 		hunter.name = "Petro";

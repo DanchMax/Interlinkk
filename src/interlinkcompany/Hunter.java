@@ -1,6 +1,8 @@
 package interlinkcompany;
 
+
 public class Hunter  extends Human {
+
 
 	int count;
 

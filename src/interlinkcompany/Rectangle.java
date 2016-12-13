@@ -21,5 +21,4 @@ public class Rectangle implements Geometric {
 
 		return a * b;
 	}
-
 }

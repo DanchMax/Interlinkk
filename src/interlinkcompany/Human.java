@@ -16,6 +16,7 @@ public class Human {
 	}
 
 
+
 	
 	@Override
 	public int hashCode() {
@@ -49,3 +50,7 @@ public class Human {
 		return "Human [age=" + age + ", name=" + name + "]";
 	}
 }
+
+	
+
+
